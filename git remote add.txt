@@ -1,5 +1,3 @@
 git push -u origin master
 
-git revert --no-edit a47d784d8974d78a1ds7a1d
-
-BLOW ALL OUT 
+git revert --no-edit
