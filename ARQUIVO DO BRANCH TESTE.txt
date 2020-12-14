@@ -2,4 +2,4 @@ git checkout teste
 
 git status
 
-git commit -am "esse ai e so no branch teste"
+git commit -am "commit message goes here"
